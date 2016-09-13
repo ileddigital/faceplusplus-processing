@@ -6,8 +6,8 @@ Capture cam;
 PImage photo; 
 int photoAge; 
 
-String api_key = "fbdd84ed5fab78b1384f943cf5fd3e69";
-String api_secret = "7IpVkigS2UeSnDYWGhD3XDTAKdMyeffb";
+String api_key = "YOUR_KEY";
+String api_secret = "YOUR_SECRET";
 
 String jonImg = "/Users/jrogers/Documents/Processing/faceplusplus_with_cam/data/jon.jpg";
 String photoImg = "/Users/jrogers/Documents/Processing/faceplusplus_with_cam/data/camPhoto.jpg";
